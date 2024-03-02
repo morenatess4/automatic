@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ftp.salesforcexytools.com/sitemap.xml
